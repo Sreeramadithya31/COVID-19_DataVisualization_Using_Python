@@ -1,0 +1,11 @@
+date,country/region,confirmed,deaths,recovered
+2020-03-01,Exampleland,10,0,0
+2020-03-02,Exampleland,16,1,0
+2020-03-03,Exampleland,24,1,2
+2020-03-04,Exampleland,35,2,5
+2020-03-05,Exampleland,48,3,8
+2020-03-01,Sample Republic,5,0,0
+2020-03-02,Sample Republic,9,0,1
+2020-03-03,Sample Republic,15,1,2
+2020-03-04,Sample Republic,22,1,4
+2020-03-05,Sample Republic,31,2,7
